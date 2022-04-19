@@ -1,0 +1,127 @@
+﻿  avtFreeType.cpp
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\avtFreeType.cpp(88,35): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\avtFreeType.cpp(88,62): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+  AVTmathLib.cpp
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\AVTmathLib.cpp(145,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\AVTmathLib.cpp(146,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\AVTmathLib.cpp(234,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\AVTmathLib.cpp(375,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\AVTmathLib.cpp(402,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\AVTmathLib.cpp(443,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\AVTmathLib.cpp(444,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\AVTmathLib.cpp(446,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  basic_geometry.cpp
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\basic_geometry.cpp(198,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\basic_geometry.cpp(320,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\basic_geometry.cpp(322,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\basic_geometry.cpp(325,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\basic_geometry.cpp(327,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\basic_geometry.cpp(343,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\basic_geometry.cpp(345,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\basic_geometry.cpp(348,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\basic_geometry.cpp(350,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\basic_geometry.cpp(434,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\basic_geometry.cpp(442,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\basic_geometry.cpp(462,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\basic_geometry.cpp(483,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\basic_geometry.cpp(484,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  l3dBillboard.cpp
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\l3dBillboard.cpp(40,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\l3dBillboard.cpp(78,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\l3dBillboard.cpp(100,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\l3dBillboard.cpp(102,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  lightDemo.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+  The contents of <ranges> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(160,56): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=u32
+          ]
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(160,51): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=u32
+          ]
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(161,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(171,56): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=u32
+          ]
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(171,51): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=u32
+          ]
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(172,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(548,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(665,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(820,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(833,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(836,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(842,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(845,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(850,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(792,13): warning C4101: 'state': unreferenced local variable
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(934,59): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(1021,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(1034,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(1093,84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(1094,84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(1095,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(1100,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(1101,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(1102,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(1112,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(1113,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(1114,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(1316,108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(1316,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(1316,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\Scene.h(1316,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(219,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(220,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(221,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(246,6): warning C4101: 'i': unreferenced local variable
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(394,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(396,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(399,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(401,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(409,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(412,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(426,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(429,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(607,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(607,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(607,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(607,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(623,46): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(624,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(625,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(626,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(628,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(629,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(630,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(680,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(681,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(683,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(684,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(710,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(661,25): warning C4101: 'alpha': unreferenced local variable
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\lightDemo.cpp(1302,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Texture_Loader.cpp
+  vsShaderLib.cpp
+D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\AVT_Project\vsShaderLib.cpp(569,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  AVT_Project.vcxproj -> D:\IST\4th year\AVT\AVT_rep\VSProjSkyBox\x64\Debug\AVT_Project.exe
+  0 File(s) copied
